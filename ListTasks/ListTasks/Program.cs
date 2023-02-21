@@ -15,10 +15,11 @@ namespace ListTasks
                 int[] temp = input[i].Split().Select(int.Parse).ToArray();
                 for (int j = 0; j < temp.Length; j++)
                 {
-                    result.Add(temp[j]);
+                    result.Add(temp[j]);    
                 }
             }
             Console.WriteLine(string.Join(' ', result));
+            Console.WriteLine("cigani");
         }
     }
 }
