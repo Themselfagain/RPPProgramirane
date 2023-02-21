@@ -19,23 +19,6 @@ namespace ListTasks
                 }
             }
             Console.WriteLine(string.Join(' ', result));
-            Console.WriteLine("cigani");
-
-
-
-
-
-
-
-
-
-
-
-            Console.WriteLine("cigani");
-            Console.WriteLine("cigani");
-            Console.WriteLine("cigani");
-            Console.WriteLine("cigani");
-
         }
     }
 }
